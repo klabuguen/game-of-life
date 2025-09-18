@@ -31,6 +31,6 @@ Each cell on the grid is either **alive (`1`)** or **dead (`0`)**, and its state
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/klabuguen/game-of-life.git
+cd game-of-life
 ```
